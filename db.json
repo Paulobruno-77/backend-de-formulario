@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "nome": "testedb",
+      "email": "testedb@gmail.com",
+      "senha": "12345678",
+      "Endereço": "terra do nunca 55",
+      "telefone": "55955588445",
+      "datadenascimento": "08092001",
+      "id": 2
+    },
+    {
+      "nome": "pedro alvares",
+      "email": "palvares@gmail.com",
+      "senha": "12345678",
+      "Endereço": "av.brasil 55",
+      "telefone": "5592999465823",
+      "datadenascimento": "08092001",
+      "id": 3
+    },
+    {
+      "nome": "teste003",
+      "email": "teste@gmail.com",
+      "senha": "87456123",
+      "Endereço": "av.teste 003",
+      "telefone": "0000000003",
+      "datadenascimento": "03032003",
+      "id": 4
+    }
+  ]
+}
